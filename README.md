@@ -29,7 +29,7 @@ The panel includes example presets:
 |---|---|
 | BUMP | `/trade bump` |
 | CANCEL | `/trade cancel` |
-| MEOW | `meow` |
+| QUACK | `quack` |
 | INV | `/inv` |
 
 These are only defaults. You can edit them or create your own.

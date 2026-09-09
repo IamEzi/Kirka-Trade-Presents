@@ -47,7 +47,7 @@ These are only defaults. You can edit them or create your own.
 
 ## Adding to a Client
 
-**Kirka Trade Presents** can be added to **Redline Client** and other Kirka clients that support custom JavaScript/userscripts.
+**Kirka Trade Presents** can be added to **Ezi Client** and other Kirka clients that support custom JavaScript/userscripts.
 
 Known compatible client types include:
 
@@ -56,7 +56,7 @@ Known compatible client types include:
 - **Dawn Client**
 - Other compatible Kirka clients
 
-For Redline Client, its official documentation lists **Userscripts** as a supported customization feature. citeturn0search0
+For Ezi Client, its official documentation lists **Userscripts** as a supported customization feature. citeturn0search0
 
 The exact method for adding a script can differ between clients.
 
